@@ -19,7 +19,8 @@ function ModalTransaction() {
         <Image
           style={{ width: "100%", height: "100%" }}
           src={
-            "http://localhost:5000/public/uploads/" + state.buktiTransfer
+            "https://onlinecinema21.herokuapp.com/public/uploads/" +
+            state.buktiTransfer
           }></Image>
       </Modal>
     </>
