@@ -138,7 +138,7 @@ const ModalLogin = () => {
           </button>
           <GoogleLogin
             className='w-100 d-flex justify-content-center'
-            clientId='882775032737-7s3bj5kcr6qac4bq136ofhklv8mto9r3.apps.googleusercontent.com'
+            clientId='155146343865-ibd4i4s4cb7beceu47oa25ssr65hid1o.apps.googleusercontent.com'
             onSuccess={onSuccessGoogle}
             onFailure={onFailureGoogle}
           />
